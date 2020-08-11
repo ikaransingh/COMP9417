@@ -1,3 +1,3 @@
 # COMP9417 - Machine Learning
-Coursework- Homeworks and project
+Coursework- Homeworks 
 Project- https://github.com/korupalli/ML-Project
